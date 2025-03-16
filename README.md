@@ -3,7 +3,7 @@
 # Text Classification using Natural Language Processing
 
 ## Overview
-This project aims to classify text data using Natural Language Processing (NLP) techniques. It focuses on preprocessing text data, building a model for classification, and evaluating the model's performance.
+This project aims to classify text data using Natural Language Processing (NLP) techniques. It focuses on preprocessing text data, building a classification model, and evaluating the model's performance.
 
 ## Objectives
 - To preprocess text data by cleaning and transforming it.
